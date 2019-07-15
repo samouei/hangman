@@ -1,7 +1,3 @@
-# Problem Set 2
-# Name: Shirin Amouei
-# Collaborators: None
-# Time spent: 14:00
 
 import random
 import string
